@@ -69,5 +69,6 @@ else:
 
 ```
 ## Output:
-<img width="1344" height="289" alt="image" src="https://github.com/user-attachments/assets/a714f961-02b0-4bbc-808b-0ed4ea9a3290" />
+![WhatsApp Image 2025-12-04 at 11 52 17_cb69f9a4](https://github.com/user-attachments/assets/02c23913-f421-451e-ae80-b34d7164df04)
+
 
